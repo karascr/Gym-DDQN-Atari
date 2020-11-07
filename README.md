@@ -1,3 +1,3 @@
 # Reinforcement-Learning-Turkiye-RL-Course
 
-This repository contains the files of homework and project of Reinforcement Learning course by Reinforcement Learning Türkiye.
+This repository contains the files of homework and project of Reinforcement Learning course.
