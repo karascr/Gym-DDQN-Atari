@@ -20,6 +20,8 @@ See the [HW3 PDF](http://rll.berkeley.edu/deeprlcourse/f17docs/hw3.pdf) for furt
 The starter code was based on an implementation of Q-learning for Atari generously provided by Szymon Sidor from OpenAI.
 
 ## Our Answers
+[Uğur İpekdüzen](https://github.com/UgurIpekduzen) was my teammate in this homework.
+
 ### Question 1
 The plot showing the performance of our implementation on the game Pong.
 <p align="left">
