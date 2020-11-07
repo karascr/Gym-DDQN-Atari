@@ -21,7 +21,5 @@ The starter code was based on an implementation of Q-learning for Atari generous
 
 ## Question 2
 <p align="center">
-  <img src="hw3/images/single_plot.png" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+  <img src="images/single_plot.png" width="350" title="hover text">
 </p>
-![alt text](https://github.com/karascr/Reinforcement-Learning-Turkiye-RL-Course/blob/main/hw3/images/single_plot.png?raw=true)
