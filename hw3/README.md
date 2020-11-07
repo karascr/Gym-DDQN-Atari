@@ -19,7 +19,19 @@ See the [HW3 PDF](http://rll.berkeley.edu/deeprlcourse/f17docs/hw3.pdf) for furt
 
 The starter code was based on an implementation of Q-learning for Atari generously provided by Szymon Sidor from OpenAI.
 
-## Question 2
-<p align="center">
-  <img src="images/single_plot.png" width="350" title="hover text">
+## Our Answers
+### Question 1
+The plot showing the performance of our implementation on the game Pong.
+<p align="left">
+  <img src="images/single_plot.png" width="500" title="learning rate multiplier = 1.0e-4">
+</p>
+
+### Question 2
+We chose learning rate and ran three other settings of this hyperparameter, and plotted all four values on the samegraph including the original one (lr=1.0e-4). 
+Our choices are 0.9e-4, 1.1e-4 and 1.5e-4.
+
+As a result lr=1.5e-4 was the best choice among these options.
+
+<p align="left">
+  <img src="images/multiple_plot.png" width="500" title="experimenting with learning rate">
 </p>
