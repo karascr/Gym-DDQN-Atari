@@ -27,10 +27,10 @@ The plot showing the performance of our implementation on the game Pong.
 </p>
 
 ### Question 2
-We chose learning rate and ran three other settings of this hyperparameter, and plotted all four values on the samegraph including the original one (lr=1.0e-4). 
+We chose learning rate and ran three other settings of this hyperparameter, and plotted all four values on the same graph including the original one (lr=1.0e-4). 
 Our choices are 0.9e-4, 1.1e-4 and 1.5e-4.
 
-As a result lr=1.5e-4 was the best choice among these options.
+As a result lr=1.5e-4 is the best performer among these options.
 
 <p align="left">
   <img src="images/multiple_plot.png" width="500" title="experimenting with learning rate">
