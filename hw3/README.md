@@ -18,3 +18,6 @@ The only files that you need to look at are `dqn.py` and `train_ac_f18.py`, whic
 See the [HW3 PDF](http://rail.eecs.berkeley.edu/deeprlcourse/static/homeworks/hw3.pdf) for further instructions.
 
 The starter code was based on an implementation of Q-learning for Atari generously provided by Szymon Sidor from OpenAI.
+
+## Question 2
+![alt text](https://github.com/karascr/Reinforcement-Learning-Turkiye-RL-Course/blob/main/hw3/images/single_plot.png?raw=true)
